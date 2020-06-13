@@ -1,5 +1,4 @@
 # Project: Pima Indians Diabetes Prediction 
-BUAN6356: Pima Indians Diabetes Prediction
 
 A research conducted by National Institute of Diabetes and Digestive and Kidney diseases (NIH), one of the prominent medical research centers, shows that diabetes affects 30.30 million people closely in United States. Also, NIH claims that diabetes is the seventh leading cause of death. U.S. Department of Health & Human Services, a government organization reports 15 million women in the United States have diabetes. Therefore, this project aims to awake our awareness of diabetes and help detect whether a patient has diabetes or not.
 
